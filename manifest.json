@@ -5,18 +5,18 @@
   "loader": "fabric",
   "mods": [
     {
-      "name": "fabric-api-0.91.0+1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.91.0+1.20.1/fabric-api-0.91.0+1.20.1.jar",
+      "name": "fabric-api-0.92.7-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/fabric-api-0.92.7-1.20.1.jar",
       "required": true
     },
     {
-      "name": "sodium-fabric-mc1.20.1-0.5.3.jar",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.20.1-0.5.3/sodium-fabric-mc1.20.1-0.5.3.jar",
+      "name": "sodium-fabric-0.5.13-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/sodium-fabric-0.5.13-mc1.20.1.jar",
       "required": true
     },
     {
-      "name": "iris-mc1.20.1-1.6.9.jar",
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1.6.9+1.20.1/iris-mc1.20.1-1.6.9.jar",
+      "name": "iris-1.7.6-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/iris-1.7.6-mc1.20.1.jar",
       "required": false
     }
   ],
