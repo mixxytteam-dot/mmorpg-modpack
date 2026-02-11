@@ -1,0 +1,24 @@
+{
+  "name": "Nightfall MMORPG",
+  "version": "1.0.0",
+  "minecraft_version": "1.20.1",
+  "loader": "fabric",
+  "mods": [
+    {
+      "name": "fabric-api-0.91.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.91.0+1.20.1/fabric-api-0.91.0+1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "sodium-fabric-mc1.20.1-0.5.3.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.20.1-0.5.3/sodium-fabric-mc1.20.1-0.5.3.jar",
+      "required": true
+    },
+    {
+      "name": "iris-mc1.20.1-1.6.9.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1.6.9+1.20.1/iris-mc1.20.1-1.6.9.jar",
+      "required": false
+    }
+  ],
+  "resourcepacks": []
+}
