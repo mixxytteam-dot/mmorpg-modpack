@@ -5,8 +5,113 @@
   "loader": "fabric",
   "mods": [
     {
+      "name": "Kiwi-1.20.1-Fabric-11.10.2.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/Kiwi-1.20.1-Fabric-11.10.2.jar",
+      "required": true
+    },
+    {
+      "name": "Patchouli-1.20.1-84.1-FABRIC.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/Patchouli-1.20.1-84.1-FABRIC.jar",
+      "required": true
+    },
+    {
+      "name": "ShieldAPI-1.0.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/ShieldAPI-1.0.1+1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "Simple-Health-Bar-v1.0.2-Fabric-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/Simple-Health-Bar-v1.0.2-Fabric-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "SkillSlots-1.20.1-Fabric-2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/SkillSlots-1.20.1-Fabric-2.1.1.jar",
+      "required": true
+    },
+    {
+      "name": "azurelibarmor-fabric-1.20.1-2.0.8.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/azurelibarmor-fabric-1.20.1-2.0.8.jar",
+      "required": true
+    },
+    {
+      "name": "bettercombat-fabric-1.9.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/bettercombat-fabric-1.9.0-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "cardinal-components-api-5.2.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/cardinal-components-api-5.2.3-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "cloth-config-11.1.136-fabric-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/cloth-config-11.1.136-fabric-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "dungeon_difficulty-2.2.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/dungeon_difficulty-2.2.1+1.20.1.jar",
+      "required": true
+    },
+    {
       "name": "fabric-api-0.92.7-1.20.1.jar",
       "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/fabric-api-0.92.7-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "iris-1.7.6-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/iris-1.7.6-mc1.20.1.jar",
+      "required": false
+    },
+    {
+      "name": "journal-1.3.9-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/journal-1.3.9-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "lootbeams-3.6.1-mc1.20.-4.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/lootbeams-3.6.1-mc1.20.-4.jar",
+      "required": true
+    },
+    {
+      "name": "modmenu-7.2.2-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/modmenu-7.2.2-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "placeholder-api-2.1.4-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/placeholder-api-2.1.4-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "required": true
+    },
+    {
+      "name": "puffish_attributes-0.7.2-1.20-fabric.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/puffish_attributes-0.7.2-1.20-fabric.jar",
+      "required": true
+    },
+    {
+      "name": "puffish_skills-0.17.1-1.20-fabric.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/puffish_skills-0.17.1-1.20-fabric.jar",
+      "required": true
+    },
+    {
+      "name": "ranged_weapon_api-1.1.4+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/ranged_weapon_api-1.1.4+1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "runes-0.9.13+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/runes-0.9.13+1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "simplyskills-1.7.2-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/simplyskills-1.7.2-1.20.1.jar",
       "required": true
     },
     {
@@ -15,9 +120,34 @@
       "required": true
     },
     {
-      "name": "iris-1.7.6-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/iris-1.7.6-mc1.20.1.jar",
+      "name": "spell_engine-0.15.12-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/spell_engine-0.15.12-1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "spell_power-0.12.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/spell_power-0.12.0+1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "structure_pool_api-1.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/structure_pool_api-1.0+1.20.1.jar",
+      "required": true
+    },
+    {
+      "name": "svm-powers-1.4-1.20.2.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/svm-powers-1.4-1.20.2.jar",
       "required": false
+    },
+    {
+      "name": "trails-1.20.1-2.1c.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/trails-1.20.1-2.1c.jar",
+      "required": false
+    },
+    {
+      "name": "trinkets-3.7.2.jar",
+      "url": "https://raw.githubusercontent.com/mixxytteam-dot/mmorpg-modpack/main/mods/trinkets-3.7.2.jar",
+      "required": true
     }
   ],
   "resourcepacks": []
